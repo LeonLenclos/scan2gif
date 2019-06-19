@@ -1,0 +1,1 @@
+name = "scan2gif"
