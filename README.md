@@ -12,7 +12,7 @@ Install dependencies :
 
 Install scan2gif :
 
-    # pip install git+https://github.com/LeonLenclos/osc-utils.git@master
+    # pip install git+https://github.com/LeonLenclos/scan2gif.git@master
 
 ### Optional
 
