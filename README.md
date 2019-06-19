@@ -2,8 +2,6 @@
 
 scan2gif is a simple command line tool to quikly make gif from scans.
 
-For help, run `python3 scan2gif -h`.
-
 ## Install
 
 
